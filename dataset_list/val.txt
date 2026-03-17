@@ -1,0 +1,10 @@
+imageTBAD/image/2_image.nii.gz	imageTBAD/label/2_label.nii.gz
+imageTBAD/image/3_image.nii.gz	imageTBAD/label/3_label.nii.gz
+imageTBAD/image/4_image.nii.gz	imageTBAD/label/4_label.nii.gz
+imageTBAD/image/7_image.nii.gz	imageTBAD/label/7_label.nii.gz
+imageTBAD/image/8_image.nii.gz	imageTBAD/label/8_label.nii.gz
+imageTBAD/image/12_image.nii.gz	imageTBAD/label/12_label.nii.gz
+imageTBAD/image/13_image.nii.gz	imageTBAD/label/13_label.nii.gz
+imageTBAD/image/44_image.nii.gz	imageTBAD/label/44_label.nii.gz
+imageTBAD/image/45_image.nii.gz	imageTBAD/label/45_label.nii.gz
+imageTBAD/image/47_image.nii.gz	imageTBAD/label/47_label.nii.gz
